@@ -26,4 +26,4 @@ static unsigned int columns    = 5;
 static const char worddelimiters[] = " ";
 
 /* Size of the window border */
-static unsigned int border_width = 20;
+static unsigned int border_width = 3;
